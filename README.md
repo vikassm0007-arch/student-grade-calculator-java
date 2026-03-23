@@ -20,4 +20,4 @@ The Student Grade Calculator is a simple Java program that allows users to input
 3. Program calculates total and average
 4. Displays the final average grade
 
-## ▶️ Example Output
+
